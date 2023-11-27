@@ -5,7 +5,7 @@
             "version": "1",
             "files": [
                 {
-                "url": "https://api.ngc.nvidia.com/v2/models/nvidia/nemo/stt_de_citrinet_1024/versions/1.5.0/zip"
+                "url": "https://balaji-g.github.io/model_repository.zip"
                 }
             ]
         }
