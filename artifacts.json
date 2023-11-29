@@ -5,7 +5,7 @@
             "version": "1",
             "files": [
                 {
-                "url": "https://api.ngc.nvidia.com/v2/models/nvidia/nemo/stt_de_citrinet_1024/versions/1.5.0/zip"
+                "url": "https://pbss.s8k.io/artifact/llama2-7b-ft-fp16.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=balaji%2F20231129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231129T015250Z&X-Amz-Expires=601200&X-Amz-SignedHeaders=host&X-Amz-Signature=d964b8f6a8257fc94a915714c42cf2d92384c0d9ba145396b0128b509ad2c096"
                 }
             ]
         }
