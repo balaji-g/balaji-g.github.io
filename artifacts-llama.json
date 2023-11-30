@@ -1,11 +1,42 @@
 {
     "artifacts": [
         {
-            "name": "triton",
+            "name": "zephyr_7b_beta",
             "version": "1",
             "files": [
                 {
-                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/"
+                "path": "gconfig.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/config.json"
+                },
+                {
+                "path": "gtokenizer_config.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/tokenizer_config.json"
+                },
+                {
+                "path": "gspecial_tokens_map.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/special_tokens_map.json"
+                },
+                {
+                "path": "ggeneration_config.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/generation_config.json"
+                },
+                {
+                "path": "gmodel.safetensors.index.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model.safetensors.index.json"
+                }
+            ]
+        },
+        {
+            "name": "sdxl",
+            "version": "1",
+            "files": [
+                {
+                "path": "model_index.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/sdxl/model_index.json"
+                },
+                {
+                "path": "scheduler/scheduler_config.json",
+                "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/sdxl/scheduler/scheduler_config.json"
                 }
             ]
         }
