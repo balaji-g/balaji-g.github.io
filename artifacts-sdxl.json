@@ -5,47 +5,47 @@
             "version": "1",
             "files": [
                 {
-                "path": "gconfig.json",
+                "path": "config.json",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/config.json"
                 },
                 {
-                "path": "gtokenizer_config.json",
+                "path": "tokenizer_config.json",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/tokenizer_config.json"
                 },
                 {
-                "path": "gspecial_tokens_map.json",
+                "path": "special_tokens_map.json",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/special_tokens_map.json"
                 },
                 {
-                "path": "ggeneration_config.json",
+                "path": "generation_config.json",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/generation_config.json"
                 },
                 {
-                "path": "gmodel.safetensors.index.json",
+                "path": "model.safetensors.index.json",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model.safetensors.index.json"
                 },
                 {
-                "path": "gmodel-00001-of-00006.safetensors",
+                "path": "model-00001-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00001-of-00006.safetensors"
                 },
                 {
-                "path": "gmodel-00002-of-00006.safetensors",
+                "path": "model-00002-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00002-of-00006.safetensors"
                 },
                 {
-                "path": "gmodel-00003-of-00006.safetensors",
+                "path": "model-00003-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00003-of-00006.safetensors"
                 },
                 {
-                "path": "gmodel-00004-of-00006.safetensors",
+                "path": "model-00004-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00004-of-00006.safetensors"
                 },
                 {
-                "path": "gmodel-00005-of-00006.safetensors",
+                "path": "model-00005-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00005-of-00006.safetensors"
                 },
                 {
-                "path": "gmodel-00006-of-00006.safetensors",
+                "path": "model-00006-of-00006.safetensors",
                 "url": "https://bganesan-test.s3.us-west-1.amazonaws.com/models/zephyr_7b_beta/model-00006-of-00006.safetensors"
                 }
             ]
