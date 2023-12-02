@@ -1,7 +1,7 @@
 {
     "artifacts": [
         {
-            "name": "zephyr_7b_beta",
+            "name": "llama2-7b-ft-fp16",
             "version": "1",
             "files": [
 
