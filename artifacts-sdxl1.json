@@ -1,0 +1,14 @@
+{
+    "artifacts": [
+        {
+            "name": "sdxl",
+            "version": "1",
+            "files": [
+                {
+                "path": "model_index.json",
+                "url": "https://balaji-g.github.io/sdxl/model_index.json"
+                }
+            ]
+        }
+    ]
+}
