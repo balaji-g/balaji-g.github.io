@@ -3,6 +3,7 @@
         {
             "name": "nemo",
             "version": "1",
+            "kind": "MODEL",
             "files": [
                 {
                 "url": "https://api.ngc.nvidia.com/v2/models/nvidia/nemo/stt_de_citrinet_1024/versions/1.5.0/zip"
