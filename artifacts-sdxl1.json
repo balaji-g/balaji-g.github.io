@@ -1,8 +1,9 @@
 {
     "artifacts": [
         {
-            "name": "sdxl",
+            "name": "foobar",
             "version": "1",
+            "kind": "MODEL",
             "files": [
                 {
                 "path": "model_index.json",
